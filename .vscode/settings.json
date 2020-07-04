@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/a83e48b0-03f4-4b21-a65d-413a049f2a53/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/webapicontacts2",
+    "appService.deploySubpath": "ApiSQLPlatzi\\publish"
+}
